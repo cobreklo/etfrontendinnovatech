@@ -2,7 +2,7 @@
 
 ## Descripción General
 
-Este repositorio contiene el código fuente y la configuración de contenedorización del **Frontend** del sistema de gestión de despachos para el proyecto Innovatech Chile (Grupo Cordillera). La aplicación está desarrollada en **React + Vite** y se despliega automáticamente en una instancia EC2 en AWS mediante un pipeline CI/CD con GitHub Actions y Amazon ECR.
+Este repositorio contiene el código fuente y la configuración de contenedorización del **Frontend** del sistema de gestión de despachos para el proyecto Innovatech Chile (Grupo Cordillera). La aplicación está desarrollada en **React + Vite** y se despliega en **AWS S3** o infraestructura similar como parte del Examen Final Transversal.
 
 ---
 
@@ -156,4 +156,4 @@ innovatech-frontend/
 
 **Grupo Cordillera — Innovatech Chile**  
 Asignatura: ISY1101 — Introducción a Herramientas DevOps  
-Evaluación Parcial N°2 | 2026
+Examen Final Transversal EFT | 2026
